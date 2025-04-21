@@ -1,7 +1,7 @@
 class{
 public static void main(String[] ar){
-
-System.out.println("heelooo aws");
+int x=10;
+System.out.println("heelooo aws"+x);
 
 }
 }
