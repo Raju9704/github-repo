@@ -1,7 +1,8 @@
 class{
 public static void main(String[] ar){
 int x=10;
-System.out.println("heelooo aws"+x);
+int y=5
+System.out.println("heelooo aws"+x*y);
 
 }
 }
